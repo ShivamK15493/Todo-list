@@ -1,12 +1,9 @@
 *{
     font-family: arial;
 }
-.header{
-    display: flex;
-    width: 28rem;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
+h1{
+    margin: 3rem 0rem;
+    font-size: 45px;
 }
 .top{
     display: flex;
@@ -28,6 +25,7 @@ button{
     color: white;
 }
 .container{
+    margin-top: 3rem;
     display: flex;
     justify-content: center;
     align-items: center;
