@@ -2,10 +2,6 @@
 
 An interactive **Todo List Web Application** built using **HTML, CSS, and Vanilla JavaScript**. The application allows users to add tasks, view the total number of tasks, and delete tasks when they are completed or no longer needed.
 
-## 🎯 Purpose
-
-The purpose of this project is to create a simple and interactive task management application that helps users organize their daily tasks efficiently. It also demonstrates the practical use of **HTML, CSS, and JavaScript** for creating dynamic web applications with DOM manipulation and event handling.
-
 ## 🚀 Features
 
 * ➕ Add new tasks
@@ -33,6 +29,10 @@ Todo-List/
 ├── app.js          # JavaScript functionality
 └── README.md       # Project documentation
 ```
+
+## 🎯 Purpose
+
+The purpose of this project is to create an interactive task management application that helps users organize their daily tasks efficiently. It also demonstrates the practical use of **HTML, CSS, and JavaScript** for creating dynamic web applications with DOM manipulation and event handling.
 
 ## 🏁 Conclusion
 
